@@ -1,0 +1,9 @@
+Inventory:
+
+1: Orange $2.99
+2: Grapes $3.99
+3: Pineapple $4.99
+4: Watermelon $4.49
+5: Beer $9.99
+6: Chips $3.99
+7: Onion Dip $2.99
